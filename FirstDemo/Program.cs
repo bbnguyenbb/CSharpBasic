@@ -8,6 +8,7 @@ namespace FirstDemo
         {
             //thêm vào ghi chú
             Console.WriteLine("hello world");
+            Console.WriteLine("code mibnguyenmib");
 
         }
     }
