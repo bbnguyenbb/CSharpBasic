@@ -4,9 +4,11 @@ namespace FirstDemo
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //thêm vào ghi chú
+            Console.WriteLine("hello world");
+
         }
     }
 }
